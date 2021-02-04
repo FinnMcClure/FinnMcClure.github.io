@@ -21,7 +21,7 @@ body {
 }
 
 /*-------- Nav --------*/
-.top_menu {
+#top_menu {
 	background: grey;
 	position: fixed;
 }
