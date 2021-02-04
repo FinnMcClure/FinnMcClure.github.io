@@ -20,6 +20,13 @@ body {
 	background-size: cover;
 }
 
+.wrapper {
+	width: 90%;
+	margin: 0 auto;
+
+}
+
+
 /*-------- Nav --------*/
 
 
