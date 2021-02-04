@@ -9,8 +9,12 @@
 }
 
 html {
-	font-family: proxima nova, sans-serif
-	
+	font-family: proxima nova, sans-serif;
+}
+
+body {
+	width: 100%;
+	background-image: url();
 }
 
 /*-------- Nav --------*/
