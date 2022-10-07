@@ -28,7 +28,8 @@ twitter_username:
 github_username:  FinnMcClure
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: brutalist-blog
 plugins:
   - jekyll-feed
 
