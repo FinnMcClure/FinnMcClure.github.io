@@ -29,7 +29,7 @@ github_username:  FinnMcClure
 
 # Build settings
 # theme: minima
-remote_theme: brutalist-blog
+remote_theme: jekyll-theme-memoirs
 plugins:
   - jekyll-feed
 
